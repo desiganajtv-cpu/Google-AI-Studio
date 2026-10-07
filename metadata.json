@@ -1,0 +1,6 @@
+{
+  "name": "Office Tasks",
+  "description": "An advanced, minimalist shared office to-do list for colleagues to capture, schedule, prioritize, and track work effortlessly.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
